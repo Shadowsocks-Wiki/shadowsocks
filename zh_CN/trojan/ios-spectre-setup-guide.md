@@ -8,7 +8,6 @@
 
 注：
 - 当前客户端仍在继续开发，因此目前仅支持全局模式。
-- 订阅功能会在之后的更新中提供。
 
 ## 2. 查看节点信息
 
@@ -27,7 +26,7 @@
 
 ![home.png](/images/trojan/spectre/home.png)
 
-## 3.1 单节点添加 - 扫码
+### 3.1 单节点添加 - 扫码
 
 使用其他设备打开节点二维码后，点击客户端界面的扫码图标 ![icon-spectre-scanqr.png](/images/icon-spectre-scanqr.png) 进行扫码即可完成添加。
 
@@ -35,11 +34,37 @@
 
 ![add-by-qrpic.png](/images/trojan/spectre/add-by-qrpic.png)
 
-## 3.2 单节点添加 - Trojan URL
+### 3.2 单节点添加 - Trojan URL
 
 首先复制节点的 Trojan URL， 点击客户端界面的 `+` 图标，复制的 Trojan URL 会自动填充，然后点击右上角的完成即可。
 
 ![add-by-url.png](/images/trojan/spectre/add-by-url.png)
+
+### 3.3 添加订阅
+
+在产品详情页面获取 Spectre / Trojan-QT5 / Shadowrocket 兼容的的服务器订阅链接。
+
+![add-subscription-00.png](/images/portal-get-link-qt5.png)
+
+注：**订阅链接与您的密码一样重要，请勿分享给他人，如不慎泄露，请在产品详情页面重置链接。**
+
+点击 `订阅按钮` 可以选择 `复制订阅链接` 或是 `显示订阅二维码` 。
+
+然后点击客户端主界面的 `添加服务器`。
+
+![add-sub-01.png](/images/trojan/spectre/add-sub-01.png)
+
+- 点击 `订阅` 右侧的 `+` ，在新弹出的窗口中，粘贴订阅链接，点击完成即可完成添加。
+
+- 点击 扫码 ![icon-spectre-scanqr-sub.png](/images/icon-spectre-scanqr-sub.png) 按钮可以通过扫码的方式添加。  
+ 
+![add-sub-02.png](/images/trojan/spectre/add-sub-02.png)  
+
+![add-sub-03.png](/images/trojan/spectre/add-sub-03.png)
+
+添加完成后，即可选择一个节点，点击连接开始使用。
+
+![add-sub-04.png](/images/trojan/spectre/add-sub-04.png)
 
 ## 4. 启动连接
 
