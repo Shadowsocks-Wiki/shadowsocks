@@ -18,6 +18,7 @@
 在节点信息最后一列：
 - 点击齿轮图标 ![icon-config.png](/images/icon-config.png) 打开单节点的配置窗口，点击 `复制配置` 即可复制节点配置。
 
+![portal-get-qr-or-url.png](/images/portal-get-qr-or-url.png)
 ![portal-copy-config.png](/images/portal-copy-config.png) 
 
 
@@ -55,7 +56,7 @@
 
 点击 `好` 保存。
 
-注：退出客户端后，系统设置需要手动恢复，否则无法上网，因此推荐使用浏览器设置扩展使用。
+注：退出客户端后，系统设置需要手动恢复，否则无法上网，因此推荐安装浏览器设置扩展使用。
 
 ## 6. 设置浏览器扩展
 
