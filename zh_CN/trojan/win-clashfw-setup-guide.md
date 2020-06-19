@@ -89,6 +89,6 @@
 
 设置方法请参考：[Chrome / Edge / Firefox 安装 Proxy SwitchyOmega 扩展使用](/zh_CN/browser/proxy-switchyomega-setup-guide.md)
 
-**由于扩展中提供的本地 Socks5 端口为 1080，需要修改为 Clash 对应的 7891**，其他内容不需要修改：
+**由于扩展中代理模式对应客户端的端口为 1080，需要修改为 Clash 对应的 7890**，请按照下图进行修改：
 
 ![cfw-swo-port.png](/images/trojan/clash-win/cfw-swo-port.png)

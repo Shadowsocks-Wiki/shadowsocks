@@ -36,7 +36,11 @@
 
 ### 2.1 通过恢复链接导入
 
-粘贴 [恢复链接(右键点击这里，选择复制链接地址)](https://dl.trojan-cdn.com/trojan/history/OmegaOptions-1080.bak) 到在线恢复的输入框内，点击恢复。
+根据所使用的客户端选择恢复链接，复制粘贴到在线恢复的输入框内(右键，选择复制链接地址)，点击恢复。
+
+[OmegaOptions-1080.bak](https://dl.trojan-cdn.com/browser/OmegaOptions-1080.bak) (本地 Socks5 端口为 1080 的客户端：TrojanX)
+[OmegaOptions-51837.bak](https://dl.trojan-cdn.com/browser/OmegaOptions-51837.bak) (本地 Socks5 端口为 51837 的客户端：Trojan-QT5 1.1.0 及以上版本)
+[OmegaOptions-7890.bak](https://dl.trojan-cdn.com/browser/OmegaOptions-7890.bak) (本地 HTTP 端口为 7890 的客户端：ClashX、Clash for Windows v0.10.3 及以上版本)
 
 导入成功后左侧情景模式会显示为 `代理模式` 与 `自动切换` 两个模式，使用方法请看后面的使用介绍。
 
