@@ -20,9 +20,8 @@
 - 新版 Microsoft Edge 浏览器下载地址：[https://www.microsoft.com/zh-cn/edge](https://www.microsoft.com/zh-cn/edge)
 
 ## 1. 首先要安装 Proxy SwitchyOmega 扩展
-- Edge 请访问: [Edge 应用商店](https://microsoftedge.microsoft.com/addons/detail/dijmmgblneagkcdganednabkbgjmceoe)
 - Firefox 请访问: [Firefox 应用商店](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/)
-- Chrome 请访问： [Chrome 应用商店](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN)
+- Edge、Chrome 请访问： [Chrome 应用商店](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN)
 
 **注**：Chrome 需要先开启代理客户端系统代理再进行安装，如果系统代理无法生效请查看： [无扩展、无系统代理情况下以代理模式启动 Chrome](/zh_CN/browser/chrome-start-without-system-proxy.md)
 
