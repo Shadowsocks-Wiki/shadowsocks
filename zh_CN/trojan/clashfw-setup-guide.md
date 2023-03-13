@@ -10,17 +10,15 @@
       - [4.2 Global 全局规则选项](#42-global-全局规则选项)
   - [5. Chrome / Edge / Firefox 配合 SwitchyOmega 扩展](#5-chrome--edge--firefox-配合-switchyomega-扩展)
 
-
-- 教程中截图对应客户端版本为 `Clash for Windows v0.9.11`  
-
 ## 1. 下载与安装
 
-- 访问 [https://dl.trojan-cdn.com/trojan/windows/](https://dl.trojan-cdn.com/trojan/windows/) 下载 
-- 访问 [Github](https://github.com/Fndroid/clash_for_windows_pkg/releases) 下载
+- 访问 Clash for Windows 官方  [Github Releases ](https://github.com/Fndroid/clash_for_windows_pkg/releases) 下载
+- 访问我们提供的 [镜像仓库](https://repo.trojan-cdn.com/clash_for_windows_pkg/LatestRelease/) 下载 
 
-下载 Clash.for.Windows.Setup.[版本号].exe 
+  - Windows系统 下载 Clash.for.Windows.Setup.[版本号].exe 文件
+  - macOS 系统下载 Clash.for.Windows-版本号.dmg 文件
 
-双击打开 exe 文件进行安装，如果系统提示 `阻止了无法识别的应用启动`，请点击更多信息，然后再点击仍要运行进行安装。  
+在 Windows 上，双击打开 exe 文件进行安装，如果系统提示 `阻止了无法识别的应用启动`，请点击更多信息，然后再点击 `仍要运行` 进行安装。  
 
 ## 2. 获取配置
 

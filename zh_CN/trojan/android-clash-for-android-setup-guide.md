@@ -9,9 +9,9 @@
 * 文中对应系统版本 `Android 10`
 
 ## 1. 下载客户端 
-- [Google Play](https://play.google.com/store/apps/details?id=com.github.kr328.clash)
-- 访问 [https://dl.trojan-cdn.com/trojan/android/](https://dl.trojan-cdn.com/trojan/android/) 下载 `clash-for-android-[版本号].apk`
+- 访问 [Google Play](https://play.google.com/store/apps/details?id=com.github.kr328.clash) 下载
 - 访问 [Github](https://github.com/Kr328/ClashForAndroid/releases) 下载 `app-universal-release.apk` 
+- 访问 [我们提供的镜像仓库 ](https://repo.trojan-cdn.com/ClashForAndroid/LatestRelease/) 下载 `clash-for-android-[版本号].apk`
 
 ## 2. 获取订阅链接
 

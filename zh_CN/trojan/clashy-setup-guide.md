@@ -11,16 +11,13 @@
     - [5.2 端口设置](#52-端口设置)
   - [6. Edge / Chrome / Firefox 配合 SwitchyOmega 扩展](#6-edge--chrome--firefox-配合-switchyomega-扩展)
 
-- 截图对应客户端版本 `Clashy 0.1.16`
-- 截图对应系统为 `Windows 10` / `macOS 10.15.1` / `Ubuntu 20.04`
-
 ## 1. 下载客户端
 
-- GIthub：https://github.com/SpongeNobody/Clashy/releases
-- 访问 https://dl.trojan-cdn.com/trojan/ 下载  
-- Windows 下载 `Clashy-版本号.exe`
-- macOS 下载 `Clashy-版本号.dmg`
-- Linux 下载 `Clashy-版本号.AppImage`
+- 访问开发团队的 [GIthub Release](https://github.com/SpongeNobody/Clashy/releases) 下载
+- 访问 [我们提供的镜像仓库](https://repo.trojan-cdn.com/Clashy/LatestRelease/) 下载  
+  - Windows 下载 `Clashy-版本号.exe`
+  - macOS 下载 `Clashy-版本号.dmg`
+  - Linux 下载 `Clashy-版本号.AppImage`
 
 ## 2. 安装与运行
 

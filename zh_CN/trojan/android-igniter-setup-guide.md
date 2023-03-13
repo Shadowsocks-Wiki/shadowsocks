@@ -16,8 +16,8 @@
 
 ## 1. 下载客户端
 - [Google Play](https://portal.shadowsocks.nz/clientarea.php?action=productdetails&id=1212815)
-- 访问 [https://dl.trojan-cdn.com/trojan/android/](https://dl.trojan-cdn.com/trojan/android/) 下载 `igniter-[版本号].apk` 
-- 访问 [Github Releases](https://github.com/trojan-gfw/igniter/releases) 下载 `xxx-release.apk`
+- 访问 [我们提供的镜像仓库 ](https://repo.trojan-cdn.com/igniter/LatestRelease/) 下载 `igniter-[版本号]-universal-release.apk` 
+- 访问 [Github Releases](https://github.com/trojan-gfw/igniter/releases) 下载 `xxx-universal-release.apk`
 
 ## 2. 查看节点信息
 

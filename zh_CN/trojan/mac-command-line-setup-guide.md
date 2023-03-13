@@ -4,7 +4,7 @@
 
 ## 1. 下载客户端
 
-- 访问 [https://dl.trojan-cdn.com/trojan/macos/](https://dl.trojan-cdn.com/trojan/macos/) 下载
+- 访问 [我们提供的镜像仓库](https://repo.trojan-cdn.com/trojan-gfw/trojan/LatestRelease/) 下载
 - 访问 [Github](https://github.com/trojan-gfw/trojan/releases) 下载
 
 下载 `trojan-[版本号]-macos.zip` 文件

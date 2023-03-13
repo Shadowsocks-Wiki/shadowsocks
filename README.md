@@ -7,28 +7,21 @@
 ## 2. Trojan 客户端设置教程
 
 ### Android
-- [Trojan Igniter 设置方法](/zh_CN/trojan/android-igniter-setup-guide.md)
 - [Clash for Android 设置方法](/zh_CN/trojan/android-clash-for-android-setup-guide.md) 
+- [Trojan Igniter 设置方法](/zh_CN/trojan/android-igniter-setup-guide.md)
 
 ### iOS
 - [Spectre 设置方法](/zh_CN/trojan/ios-spectre-setup-guide.md)
 - [Shadowrocket 设置方法](/zh_CN/trojan/ios-shadowrocket-setup-guide.md) 
 - [QuantumultX 设置方法](/zh_CN/trojan/ios-quantumultx-setup-guide.md)
   
-### Windows
-- [Clash for Windows 设置方法](/zh_CN/trojan/win-clashfw-setup-guide.md) 
-- [Clashy 设置方法](/zh_CN/trojan/clashy-setup-guide.md)
-- [Trojan-QT5 设置方法](/zh_CN/trojan/win-trojan-qt5-setup-guide.md)
-
-### macOS
+### Windows / macOS / Linux
+- [Clash for Windows 设置方法](/zh_CN/trojan/clashfw-setup-guide.md) 
+    - 支持 Windows/ macOS / Linux  
 - [ClashX 设置方法](/zh_CN/trojan/mac-clashx-setup-guide.md)
+    - 支持 macOS
 - [Clashy 设置方法](/zh_CN/trojan/clashy-setup-guide.md)
-- [TrojanX 设置方法](/zh_CN/trojan/mac-trojanx-setup-guide.md)
-- [Trojan-QT5 设置方法](/zh_CN/trojan/mac-trojan-qt5-setup-guide.md)
-
-### Linux 
-- [Clashy 设置方法](/zh_CN/trojan/clashy-setup-guide.md)
-- [Trojan-QT5 设置方法(Ubuntu)](/zh_CN/trojan/ubuntu-trojan-qt5-setup-guide.md)
+    - 支持 Windows/ macOS / Linux
 
 ## 3. 浏览器设置教程  
 
