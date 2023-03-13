@@ -13,7 +13,7 @@
 
 命令行客户端只能设置单节点。
 
-登入到客户中心，依次访问 `产品服务` > [`我的产品与服务(点击前往)`](https://portal.shadowsocks.nz/clientarea.php?action=products) ，查看 Trojan 服务对应的 `云加速服务 - Lite` / `Pro` 服务器信息。
+登入到客户中心，依次访问 `产品服务` > [`我的产品与服务(点击前往)`](https://portal.shadowsocks.au/clientarea.php?action=products) ，查看 Trojan 服务对应的 `云加速服务 - Lite` / `Pro` 服务器信息。
 
 在节点信息最后一列：
 - 点击齿轮图标 ![icon-config.png](/images/icon-config.png) 打开单节点的配置窗口，点击 `复制配置` 即可复制节点配置。
