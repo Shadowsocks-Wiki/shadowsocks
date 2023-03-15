@@ -73,13 +73,17 @@
 
 #### 4.2 Global 全局规则选项
 
-`Global` 页面中的选项卡是设置 Clash 的代理规则，即设置 Clash 如何处理访问请求。
+`Global` 表示全局模式，设置 Clash 如何处理访问请求。
 
 - Direct 表示直接连接，不使用代理  
 ![cfw-rule-direct.png](/images/trojan/clash-win/cfw-rule-direct.png)
 - Reject 表示全部拒绝访问  
 ![cfw-rule-reject.png](/images/trojan/clash-win/cfw-rule-reject.png)
 - 其他直接选中节点表示全部请求均通过代理，类似于 Shadowsocks 的全局模式
+
+`Rule` 表示规则模式，会根据配置文件所设置的规则区分流量是否经过代理
+
+![cfw-select-node.png](/images/trojan/clash-win/cfw-select-rule-node.png)
 
 ## 5. Chrome / Edge / Firefox 配合 SwitchyOmega 扩展
 
