@@ -4,7 +4,7 @@
 
 ## 1. 查看节点信息
 
-登入到客户中心，依次访问 `产品服务` > [`我的产品与服务(点击前往)`](http://portal.shadowsocks.au/clientarea.php?action=products) ，查看 Trojan 服务对应的服务器信息。
+登入到客户中心，依次访问 `产品服务` > [`我的产品与服务(点击前往)`](http://secure.shadowsocks.au/clientarea.php?action=products) ，查看 Trojan 服务对应的服务器信息。
 
 
 ### 1.1 获取配置文件的订阅链接

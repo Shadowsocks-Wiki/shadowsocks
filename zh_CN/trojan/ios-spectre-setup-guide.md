@@ -11,7 +11,7 @@
 
 ## 2. 查看节点信息
 
-登入到客户中心，依次访问 `产品服务` > [`我的产品与服务(点击前往)`](https://portal.shadowsocks.au/clientarea.php?action=products) ，查看 Trojan 服务对应的 `云加速服务 - Lite` / `Pro` 服务器信息。
+登入到客户中心，依次访问 `产品服务` > [`我的产品与服务(点击前往)`](https://secure.shadowsocks.au/clientarea.php?action=products) ，查看 Trojan 服务对应的 `云加速服务 - Lite` / `Pro` 服务器信息。
 
 在节点信息最后一列：
 

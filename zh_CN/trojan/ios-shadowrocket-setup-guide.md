@@ -15,7 +15,7 @@
 
 ## 1. 查看节点信息
 
-登入到客户中心，依次访问 `产品服务` > [`我的产品与服务(点击前往)`](https://portal.shadowsocks.au/clientarea.php?action=products) ，查看 Trojan 服务对应的 `云加速服务 - Lite` / `Pro` 服务器信息。
+登入到客户中心，依次访问 `产品服务` > [`我的产品与服务(点击前往)`](https://secure.shadowsocks.au/clientarea.php?action=products) ，查看 Trojan 服务对应的 `云加速服务 - Lite` / `Pro` 服务器信息。
 
 ## 2. 添加节点
 
@@ -71,4 +71,4 @@ Shadowrocket 可以直接扫描订阅链接的二维码进行添加。
 
 如果以前在大陆地区商店购买过该 APP ，可以 `iMazing` 这个软件进行下载更新，免费的版本即可。
 
-设置方法：[https://portal.shadowsocks.au/knowledgebase/183/](https://portal.shadowsocks.au/knowledgebase/183/)
+设置方法：[https://secure.shadowsocks.au/knowledgebase/183/](https://secure.shadowsocks.au/knowledgebase/183/)

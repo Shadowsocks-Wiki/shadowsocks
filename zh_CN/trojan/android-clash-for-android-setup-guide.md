@@ -15,7 +15,7 @@
 
 ## 2. 获取订阅链接
 
-访问 [我的产品与服务](https://portal.shadowsocks.au/clientarea.php?action=services)，点击要使用的服务打开服务详情页面查看节点信息。 
+访问 [我的产品与服务](https://secure.shadowsocks.au/clientarea.php?action=services)，点击要使用的服务打开服务详情页面查看节点信息。 
 
 获取 Clash 的订阅链接。
 
