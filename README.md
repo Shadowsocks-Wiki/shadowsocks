@@ -16,12 +16,8 @@
 - [QuantumultX 设置方法](/zh_CN/trojan/ios-quantumultx-setup-guide.md)
   
 ### Windows / macOS / Linux
-- [Clash for Windows 设置方法](/zh_CN/trojan/clashfw-setup-guide.md) 
+- [Clash Verge Rev 设置方法](/zh_CN/trojan/clash-verge-rev-setup-guide.md) 
     - 支持 Windows/ macOS / Linux  
-- [ClashX 设置方法](/zh_CN/trojan/mac-clashx-setup-guide.md)
-    - 支持 macOS
-- [Clashy 设置方法](/zh_CN/trojan/clashy-setup-guide.md)
-    - 支持 Windows/ macOS / Linux
 
 ## 3. 浏览器设置教程  
 
